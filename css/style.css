@@ -4,7 +4,7 @@
 }
 
 .jumbotron {
-/*  background-color: rgb(0, 137, 255);*/
+/*  background-color jumbotron*/
   margin-bottom: 0;
   background-color: hsl(213, 100%, 14%) !important;
   background-repeat: repeat-x;
@@ -24,7 +24,7 @@
 
 }
 
-
+/* Navbar */
 .navbar-form input, .form-inline input {
   width:auto;
 }
@@ -37,6 +37,8 @@
     margin-bottom: 0;
 }
 
+/* google maps */
+
    #map {
  
         width:  500px;
@@ -44,6 +46,8 @@
         height: 500px;
       
       }
+
+/* Font style */
 
      h1, h2, h3, h4, h5, h6, p {
 font-family: 'Crimson Text', serif;
@@ -53,4 +57,14 @@ hr {
   margin-top: 20em;
   margin-bottom: 1em;
 }
+
+/* Carousel */
+.carousel-inner {
+  width: 100%;
+
+  margin: auto;
+}
+
+
+
 
